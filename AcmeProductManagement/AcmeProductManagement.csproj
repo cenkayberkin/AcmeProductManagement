@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="common\services\common.services.js" />
     <Content Include="common\services\productResource.js" />
+    <Content Include="common\services\productResourceMock.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
